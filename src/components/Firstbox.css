@@ -1,0 +1,15 @@
+.textbox {
+  display: flex;
+  justify-content: center;
+}
+.firstbox {
+  padding-left: 50px;
+  padding-right: 50px;
+  padding-bottom: 70px;
+}
+.bigtitle {
+  font-size: 40px;
+}
+.descriptionBox {
+  font-size: 30px;
+}

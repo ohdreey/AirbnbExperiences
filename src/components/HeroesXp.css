@@ -1,0 +1,16 @@
+.heroesXp {
+  display: flex;
+  justify-content: space-evenly;
+}
+.heroes {
+  display: flex;
+  flex-direction: column;
+}
+.heroesPicture {
+  width: 250px;
+  border-radius: 20px;
+  margin-bottom: 1em;
+}
+.star {
+  width: 7%;
+}
